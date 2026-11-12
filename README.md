@@ -3,7 +3,7 @@
 The public download location for AI INFRAJourney by AI INFRAVeyra. The source code is private; this repository holds only:
 
 - `update.json`: the signed update feed the app reads in Help > Check for updates.
-- Installers and signed data packs, attached to the releases here.
+- `downloads/`: installers (with `SHA256SUMS`). `packs/`: signed data packs.
 
 ## How it is protected
 - `update.json` and every `.aijpack` data pack are signed with AI INFRAVeyra's Ed25519 key. The app holds only the public key, so it refuses any changed or forged file.
