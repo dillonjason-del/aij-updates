@@ -22,4 +22,4 @@ https://raw.githubusercontent.com/dillonjason-del/aij-updates/main/update.json
 |---|---|
 | `packs/rulepacks-2026.11.12.aijpack` | The 7 rule packs exactly as shipped in 0.9.0 (AMD MI355X, DGX B200, B300 Spectrum-X, B300 XDR, GB200, GB300, Vera Rubin NVL72) |
 
-Install with `p2p datapack install rulepacks-2026.11.12.aijpack`, or POST to `/api/datapacks` (settings role). Both need app version 0.9.1 or later.
+Install with `p2p datapack install rulepacks-2026.11.12.aijpack`, or POST to `/api/datapacks` (settings role). Both need app version 0.9.1 or later (current release).
